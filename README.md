@@ -1,11 +1,17 @@
-Hi there! 👋😄
+> init Osvaldo --arch mobile
 
-I'm Osvaldo, a mobile architect and developer specializing in iOS 🍎, Android 🤖, and Flutter 🐦 projects!
+sys.info:
+  role: architect/dev
+  stack: [iOS 🍎, Android 🤖, Flutter 🐦]
+  mode: build_fast // secure, scalable, clean
 
-🚀 I'm passionate about software development and constantly seeking ways to enhance development workflows, particularly in mobile architectures.
+passion = devOps + mobile_arch + workflow_hacks
+skillset = detail_oriented && collab_driven
+mission = simplify(complexity) -> ship(success)
 
-👨🏻‍💻 Known for my meticulous attention to detail and collaborative approach, I thrive on simplifying and solving complex problems to keep projects moving forward.
+connect:
+  [linkedin://osvaldo-pirrello](https://www.linkedin.com/in/osvaldo-pirrello/)
+  [medium://ooosv](https://medium.com/@ooosv)
+  [mastodon://ooosv](https://me.dm/@ooosv)
 
-🔗 Let's stay connected! Find me on [LinkedIn](https://www.linkedin.com/in/osvaldo-pirrello/), [Medium](https://medium.com/@ooosv) and [Mastodon](https://me.dm/@ooosv).
-
-Feel free to reach out anytime! 😄👍🏼
+# ping anytime.
